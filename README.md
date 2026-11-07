@@ -26,3 +26,9 @@
     </td>
   </tr>
 </table>
+<p align="center">
+  <img src="./assets/whataboutyourship.png" width="500" alt="What About Your Ship?">
+</p>
+<p align="center">
+  <img src="./assets/SugarPearls.png" width="500" alt="Sugar Pearls">
+</p>
