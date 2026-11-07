@@ -19,5 +19,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="./assets/Towersofbeasts.png" width="500" alt="Towers of Beasts"><br>
-      <img src="./assets/6d16d250eca317f94fd2310255ee0b63.png" width="500" alt="Beasts"><br>
+      <img src="./assets/Towersofbeasts.png" width="500" alt="Towers of Beasts">
+    </td>
+    <td align="center">
+      <img src="./assets/6d16d250eca317f94fd2310255ee0b63.png" width="500" alt="Beasts">
+    </td>
+  </tr>
+</table>
